@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "terminal_tool": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "C:\\sandbox\\learn-mcp\\shellserver",
+          "run",
+          "server.py"
+        ]
+      }
+    }
+  }
